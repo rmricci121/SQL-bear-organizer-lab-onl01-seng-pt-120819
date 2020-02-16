@@ -6,7 +6,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabith
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 3, 'male', 'brown', good, 0);
 INSERT INTO bears (name, age, gender, color, temperament, alice) VALUES ('Melissa', 3, 'male, brown, good, 0');
 INSERT INTO bears (name, age, gender, color, temperament, alice) VALUES ('Grinch', 3, 'male, brown, good, 0');
-INSERT INTO bears (name, age, gender, color, temprament, alice) VALUES ('Wendy', 3, 'male, brown, good, 0');
+INSERT INTO bears (name, age, gender, color, temperament, alice) VALUES ('Wendy', 3, 'male, brown, good, 0');
 INSERT INTO bears (name, age, gender, color, temprament, alice) VALUES (null, null, null, brown, good, 0');
 
 
