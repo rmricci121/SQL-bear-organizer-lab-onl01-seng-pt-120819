@@ -1,3 +1,5 @@
 CREATE TABLE bears (
-  id IN
+  id Integer 
+  name TEXT 
+  age INTEGER 
 );
