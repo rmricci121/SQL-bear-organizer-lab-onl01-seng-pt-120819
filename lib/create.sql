@@ -1,5 +1,9 @@
 CREATE TABLE bears (
-  id Integer 
+  id INTEGER
   name TEXT 
   age INTEGER 
+  gender TEXT 
+  color TEXT
+  temperment TEXT 
+  alive BOOLEAN
 );
